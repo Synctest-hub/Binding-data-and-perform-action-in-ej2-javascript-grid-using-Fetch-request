@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ts\\New folder (4)\\js\\FetchRequest\\FetchRequest\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\ts\\New folder (4)\\js\\FetchRequest\\FetchRequest\\wwwroot\\js\\index.js",
+      "PackagePath": "staticwebassets\\js\\index.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FetchRequest.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FetchRequest.props",
+      "PackagePath": "build\\FetchRequest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FetchRequest.props",
+      "PackagePath": "buildMultiTargeting\\FetchRequest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FetchRequest.props",
+      "PackagePath": "buildTransitive\\FetchRequest.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

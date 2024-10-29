@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "5Bov8f0a0hHUqbs6aO6XdmAMEAhvywDamqQgINCYEDA=",
+  "Source": "FetchRequest",
+  "BasePath": "_content/FetchRequest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FetchRequest\\wwwroot",
+      "Source": "FetchRequest",
+      "ContentRoot": "D:\\ts\\New folder (4)\\js\\FetchRequest\\FetchRequest\\wwwroot\\",
+      "BasePath": "_content/FetchRequest",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\ts\\New folder (4)\\js\\FetchRequest\\FetchRequest\\wwwroot\\index.html",
+      "SourceId": "FetchRequest",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ts\\New folder (4)\\js\\FetchRequest\\FetchRequest\\wwwroot\\",
+      "BasePath": "_content/FetchRequest",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\ts\\New folder (4)\\js\\FetchRequest\\FetchRequest\\wwwroot\\js\\index.js",
+      "SourceId": "FetchRequest",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ts\\New folder (4)\\js\\FetchRequest\\FetchRequest\\wwwroot\\",
+      "BasePath": "_content/FetchRequest",
+      "RelativePath": "js/index.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\index.js"
+    }
+  ]
+}
